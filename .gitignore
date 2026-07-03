@@ -1,0 +1,18 @@
+# Ejecutables y archivos de compilación
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+
+# Carpetas de compilación
+build/
+cmake-build-*/
+
+# Archivos de editores y sistema
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
